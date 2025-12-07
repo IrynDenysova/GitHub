@@ -1,0 +1,172 @@
+git merge feature
+git checkout main
+git commit --amend -m "Added feature changes with amend"
+git commit --amend -m
+git push origin feature
+git commit -m "added feature changes"
+git add .
+git add
+git status
+echo "*.log" >> .gitignore
+echo "This is a feature" >> README.md
+git log
+git checkout -b feature
+cd GitHub/
+git clone git@github.com:IrynDenysova/GitHub.git
+cd ICH/Git
+cd ..
+cd ICH/Git/101025-ptm
+cd /ICH/Git
+find ICH
+git init .
+rm -rf .git
+rm =rf .git
+git config --global init.defaultBranch main
+./jkjk/
+mkdir jkjk
+cd /tmp
+which git
+python3
+scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/IDenysova/permission_checker.sh   ~/Desktop/ICH/linux/
+echo `pwd`
+ssh ec2-user@linux.itcareerhub.de
+cd ICH
+cd ICH/Git/101025-ptm/
+ascii
+brew install ascii
+git branch -v
+rm -rf .gitingore git_branch/
+git branch -D gitignore
+pwd
+git push origin gitignore
+git remote add origin git@github.com:IrynDenysova/git_branch.git
+git remote rm origin
+git remote -v
+git push
+git commit -m "add gitignore"
+cp ../.gitignore .
+cp ../.gitignore
+git checkout -b gitignore
+cd git_branch/
+vi .gitignore
+git clone https://github.com/IrynDenysova/git_branch.git
+git commit -m "Add Date"
+git add Date.txt
+date >> Date.txt
+git log --all --oneline
+ls -la
+git checkout Feature
+git checkout -b Feature
+git branch -d test
+cd 101025-ptm/
+git checkout origin/main
+git checkout Test
+git checkout -v
+git branch Test
+git pull
+git remote add origin git@github.com:IrynDenysova/git_inro.git
+git commit -m "Add foto"
+git add 2025-11-17\ 12.08.19.jpg
+cp ~/Desktop/ICH/2025-11-17\ 12.08.19.jpg /Users/irynadenysova/ICH/Git/git_inro
+cp ~/Desktop/ICH/2025-11-17\ 12.08.19.jpg git@github.com:IrynDenysova/git_inro.git
+cd git_inro/
+git clone git@github.com:IrynDenysova/git_inro.git
+rm -rf 101025-ptm-test/
+cd 101025-ptm-test/
+git clone git@github.com:IrynDenysova/101025-ptm-test.git
+git push -u origin main -f
+git push -u origin main
+git remote add origin git@github.com:IrynDenysova/101025-ptm.git
+git branch -M main
+git remote add origin git@ithub.com:IrynDenysova/101025-ptm.git
+git commit -am "add 1 line"
+vim Song.txt
+git commit -m "inital commit"
+rm .Song.txt.swp
+git add Song.txt
+git init
+nano Song.txt
+mkdir 101025-ptm
+cd ICH/Git/
+cd
+mkdir ICH/Python
+cd /
+git config --global -l
+git config --global user.email "iriska.ermak@gmail.com"
+git config --global user.name "IrynDenysova"
+mkdir ICH/Git
+mkdir ICH
+cat ~/.ssh/id_ed25519.pub
+~/.ssh/id_rsa.pub
+git
+s
+pbpaste
+pbpaste | wc
+ss
+scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/IDenysova/count-ssh.txt  ~/Desktop/ICH/
+ls -la ~/Desktop/ITC
+ls -la /Desktop
+scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/IDenysova/.process_management  ~/Desktop/ITC/
+scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/IDenysova/test.txt ~/Desktop/ITC/
+for x in (seq 0 1 0.2)
+echo $x
+end
+for x in (echo 0 1 2)
+echo $x
+end
+echo -4.7 | python3 /Users/irynadenysova/PycharmProjects/PythonProject101025/HA6.py
+echo -4.2 | python3 /Users/irynadenysova/PycharmProjects/PythonProject101025/HA6.py
+echo 4.2 | python3 /Users/irynadenysova/PycharmProjects/PythonProject101025/HA6.py
+python3 /Users/irynadenysova/PycharmProjects/PythonProject101025/HA6.py < -4.2
+python
+yes
+zes
+ssh-keygen -C iriska.ermak@gmail.com
+ls
+rm -R animals/
+rm animals
+cd /root
+mkdir animals
+cd /home
+mkdir dogs | cats | fish
+cd animals
+python3 --version
+brew install python3
+sudo apt install hardinfo
+cat /etc/hosts
+cat etc/hosts
+dig
+cat hosts
+source ~/.config/fish/config.fish
+vim .config/fish/config.fish
+env
+gst
+./hexlet/
+git commit -m 'add PEOPLE.md'
+git add PEOPLE.md
+echo 'Hello, Hexlet!' > PEOPLE.md
+cd hexlet
+mkdir hexlet
+ls -a
+brew install git
+type tree
+tree
+brew install tree
+echo >> /Users/irynadenysova/.config/fish/config.fish
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/irynadenysova/.config/fish/config.fish
+eval "$(/opt/homebrew/bin/brew shellenv)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+apt update
+apt install tree
+less system.log
+tail -f system.log
+cd /var/log
+tail -f  /var/log/system.log
+file /var/log/system.log
+less syslog
+tail -f syslog
+syslog
+sudo less syslog
+sudo tail -f syslog
+sudo tail -f
+fish_config
